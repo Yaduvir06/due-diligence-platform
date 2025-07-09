@@ -32,12 +32,6 @@ A secure, AI-powered platform for conducting comprehensive due diligence analysi
 - **Requests**: HTTP client for API calls
 - **Python-dotenv**: Environment variable management
 
-### Frontend
-- **React**: Modern JavaScript framework
-- **Tailwind CSS**: Utility-first CSS framework
-- **Shadcn/UI**: High-quality UI components
-- **Lucide Icons**: Beautiful icon library
-- **Vite**: Fast build tool
 
 ### APIs & Services
 - **Financial Modeling Prep**: Financial data
@@ -89,12 +83,6 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-3. **Frontend Setup**
-```bash
-cd ../due-diligence-frontend
-npm install
-npm run dev
-```
 
 ### Production Deployment
 The platform is deployed using Manus deployment services with automatic scaling and monitoring.
